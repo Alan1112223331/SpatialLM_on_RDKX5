@@ -1,0 +1,2 @@
+# SpatialLM_on_RDKX5
+在RDKX5上运行SpatialLM，使用大模型标注点云
